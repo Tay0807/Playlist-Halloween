@@ -1,5 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+
+
 .App {
   text-align: center;
+  background-repeat: no-repeat;
+  height: calc(100vh - 93px);
+  height: 100vh;
+  background-size: 100%;
+  background-position: center center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .App-logo {
